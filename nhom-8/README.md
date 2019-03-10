@@ -1,9 +1,19 @@
-# Thành viên
-	1. Nguyễn Quang Hiệp
-	2. Trần Văn Khải
-	3. Đỗ Lương Khoa
-	4. Nguyễn Đức Hoàng
-	5. Nguyễn Mạnh Hiếu
+
+
+# Thành viên:
+<ul>
+<li>Product Owner: Nguyễn Đức Hoàng</li>
+<li>Scrum Master: Nguyễn Quang Hiệp</li>
+<li>Development Team:
+<ul>
+<li>Nguyễn Quang Hiệp</li>
+<li>Trần Văn Khải</li>
+<li>Đỗ Lương Khoa</li>
+<li>Nguyễn Mạnh Hiếu</li>
+<li>Nguyễn Đức Hoàng</li>
+</ul>
+</li>
+</ul>
 
 	
 # Tên ứng dụng: shop69
